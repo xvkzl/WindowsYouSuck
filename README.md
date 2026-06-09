@@ -10,7 +10,7 @@ I think not.
 LEARN HOW TO MAKE FUCKING MALWARE FOR WINDOWS HAHAHHAHAHAHA!!!
 
 **Chapters**
-- Basics
+- Fundamentals
 
 # OTHER CHAPTERS COMING SOON...
 
