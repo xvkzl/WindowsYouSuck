@@ -7,7 +7,7 @@ I think not.
   
   Windows Malware Development with Rust.
 
-LEARN HOW TO MAKE FUCKING MALWARE FOR WINDOWS HAHAHHAHAHAHA!!!
+LEARN HOW TO MAKE MALWARE FOR WINDOWS HAHAHHAHAHAHA!!!
 
 **Chapters**
 - Fundamentals
